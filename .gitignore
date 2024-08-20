@@ -1,0 +1,6 @@
+*.dat
+!a.dat
+results/
+run.log
+
+
